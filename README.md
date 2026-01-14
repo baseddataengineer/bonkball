@@ -1,4 +1,6 @@
-# 🎱 Bonkball ($BONKBALL)
+# bonkball
+
+<img width="1026" height="405" alt="Capture d’écran 2026-01-14 à 17 37 55" src="https://github.com/user-attachments/assets/ddee29bb-625a-452d-aa74-227dc3fdb3eb" />
 
 > The first token on Bonkers that automatically uses creator fees to market-make itself.
 
